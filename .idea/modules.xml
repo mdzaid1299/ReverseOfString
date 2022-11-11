@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/codeStyles.iml" filepath="$PROJECT_DIR$/.idea/codeStyles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReverseOfString.iml" filepath="$PROJECT_DIR$/.idea/ReverseOfString.iml" />
     </modules>
   </component>
 </project>
